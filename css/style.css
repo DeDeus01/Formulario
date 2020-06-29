@@ -1,0 +1,150 @@
+body {
+    width: 100%;
+    margin: 0 auto;
+}
+
+/* ----- header with image and title ------ */
+
+.header-image-with-description {
+    width: 100%;
+    height: 55px;
+    background-color: #34495e;
+    padding: 1px;
+}
+
+.title {
+    display: inline-block;
+    margin-top: 10px;
+    margin-left: 5px;
+    color: white;
+    font-size: 20px;
+    font-family: 'Arial', sans-serif;
+}
+
+img {
+    margin-left: 20px;
+    width: 45px;
+    height: 45px;
+    display: inline-block;
+}
+
+/* ---- footer -----*/
+
+.footer-content {
+    margin: auto;
+    margin-top: 5px;
+    width: 95%;
+    border-top: 1px solid black;
+}
+
+
+/*------ formulario --------*/
+
+.title-form {
+    height: 120px;
+    width: 100%;
+    padding: 70px 0 30px 80px;
+}
+
+.form {
+    margin: auto;
+    width: 90%;
+}
+
+.btn-primary{
+    color: white;
+    background-color: #34495e !important;
+    border:none;
+}
+
+.btn-primary:hover {
+    text-decoration: none;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+/* ----- response ------ */
+
+.text-description {
+    margin: auto;
+    width: 90%;
+    height: 100px;
+    padding: 20px;
+}
+
+.response-header {
+    height: 100px;
+    margin:auto;
+    width: 90%;
+    padding: 70px;
+    text-align: center;    
+}
+
+.response-body {
+    margin:auto;
+    width: 90%;
+}
+
+
+
+/* p {
+    margin: auto;
+    text-align: center;
+    width: 90%;
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ----- terms page -----*/
+
+#term-content {
+    margin:auto;
+    width: 90%;
+    padding-bottom: 20px;
+}
+
+#term-title {
+    height: 150px;
+    padding: 50px;
+    margin: auto;
+    width: 90%;
+    text-align: center;
+}
+
+#term-content p {
+    text-align: justify;
+}
+
+#term-button {
+    height: 150px;
+    padding: 50px;
+    margin:auto;
+    width: 90%;
+}
+
+#term-button a {
+    margin-left: 45%;
+    border-radius: 3px;
+    font-size: 20px;
+    padding: 10px 30px;
+    color: white;
+    background-color: #34495e;
+    border: none;
+}
+
+#term-button a:hover {
+    text-decoration: none;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
