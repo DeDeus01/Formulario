@@ -1,5 +1,5 @@
 <?php 
-    static $page = 'index.php?pg=contato.php';
+    static $page = 'index.php?pg=contact.php';
 ?>
 
 <!DOCTYPE html>

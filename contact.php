@@ -62,13 +62,12 @@
                         do usuário. Ao preencher e submeter seus dados você garante ter aceitado todos os termos 
                         descritos. Em caso de dúvidas você poderá ler nossos termos de uso <a href="index.php?pg=terms.php">aqui</a>.
                         </p>
-                    </div>
                 </div>
-                <div class="col-md-12">
-                    <div class="mb-5">
-                        <div class="text-center">
-                            <button class="btn btn-primary ">Submeter</button>
-                        </div>
+            </div>
+            <div class="col-md-12">
+                <div class="mb-5">
+                    <div class="text-center">
+                        <button class="btn btn-primary ">Submeter</button>
                     </div>
                 </div>
             </div>
