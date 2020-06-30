@@ -3,6 +3,7 @@ body {
     margin: 0 auto;
 }
 
+
 /* ----- header with image and title ------ */
 
 .header-image-with-description {
@@ -28,6 +29,7 @@ img {
     display: inline-block;
 }
 
+
 /* ---- footer -----*/
 
 .footer-content {
@@ -46,7 +48,7 @@ img {
     padding: 70px 0 30px 80px;
 }
 
-.form {
+.needs-validation {
     margin: auto;
     width: 90%;
 }
@@ -62,48 +64,98 @@ img {
     box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
 }
 
+
 /* ----- response ------ */
 
-.text-description {
-    margin: auto;
-    width: 90%;
-    height: 100px;
-    padding: 20px;
-}
-
-.response-header {
-    height: 100px;
-    margin:auto;
-    width: 90%;
-    padding: 70px;
-    text-align: center;    
-}
-
-.response-body {
+.resp-body{
     margin:auto;
     width: 90%;
 }
-    
 
+.content {
+    margin-top: 30px;
+}
 
-/* p {
-    margin: auto;
+.resp-header {
+    height: 70px;
+    padding: 25px;
     text-align: center;
-    width: 90%;
-} */
+       
+}
 
+.resp-content {
+    height: 430px;
+}
 
+.image-with-information-content {
+    width: 40%;
+    height: 100%;
+}
 
+.image-content {
+    margin: auto;
+    width: 70%;
+    height: 50%;
+}
 
+.image-content img {
+    height: 230px;
+    width: 215px;
+    margin-top: -8px;
+    margin-left: 25%;
+    background-repeat: no-repeat;
+}
 
+.info-content {
+    margin: auto;
+    height: 50%;
+    width: 70%;
+}
 
+.info-content table {
+    height: 90%;
+    width: 80%;
+    text-align: center;
+    margin: auto;
+}
 
+label {
+    font-weight: bolder;
+}
 
+.message-content {
+    width: 60%;
+    height: 90%;
+    margin-left: 484px;
+    margin-top:-400px;
+}
 
+.message-content p {
+    width: 95%;
+    height: 100%;
+    margin-left: 5px;
+    text-align: justify;
+}
 
+.button-content {
+    height: 50px;
+    padding: 50px;
+}
 
+#resp-button a {
+    margin-left: 45%;
+    border-radius: 3px;
+    font-size: 20px;
+    padding: 10px 30px;
+    color: white;
+    background-color: #34495e;
+    border: none;
+}
 
-
+#resp-button a:hover {
+    text-decoration: none;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
 
 
 /* ----- terms page -----*/

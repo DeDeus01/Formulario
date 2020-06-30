@@ -74,6 +74,6 @@
     himenaeos, laoreet orci suscipit vel dictum diam adipiscing. 
     </p>
     <div id="term-button">
-        <a href="index.php?pg=contato.php">Voltar</a>
+        <a href="index.php?pg=contact.php">Voltar</a>
     </div>
 </div>
